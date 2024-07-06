@@ -1,0 +1,16 @@
+﻿  KLASY.cpp
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\KLASY.cpp(15,8): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\KLASY.cpp(16,13): warning C4305: "=": obcięcie z "double" do "float"
+  LAB5(zad.6,7).cpp
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7).cpp(66,41): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7).cpp(66,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7).cpp(68,46): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7).cpp(68,41): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7).cpp(73,23): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7).cpp(73,17): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7)\LAB5(zad.6,7).cpp(74,17): warning C4305: "argument": obcięcie z "double" do "float"
+  NAME.cpp
+  SERIES.cpp
+  WYKRES.cpp
+  Generowanie kodu...
+  LAB5(zad.6,7).vcxproj -> C:\Users\majak\OneDrive\Pulpit\PK\LAB5(zad.6,7)\LAB5(zad.6,7)\x64\Debug\LAB5(zad.6,7).exe
