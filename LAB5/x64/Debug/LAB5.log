@@ -1,0 +1,13 @@
+﻿  KLASY.cpp
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\KLASY.cpp(15,8): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\KLASY.cpp(16,13): warning C4305: "=": obcięcie z "double" do "float"
+  LAB5.cpp
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\LAB5.cpp(66,41): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\LAB5.cpp(66,35): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\LAB5.cpp(68,46): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\LAB5.cpp(68,41): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\LAB5.cpp(73,23): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\LAB5.cpp(73,17): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\LAB5\LAB5.cpp(74,17): warning C4305: "argument": obcięcie z "double" do "float"
+  Generowanie kodu...
+  LAB5.vcxproj -> C:\Users\majak\OneDrive\Pulpit\PK\LAB5\LAB5\x64\Debug\LAB5.exe
